@@ -1,0 +1,42 @@
+DBMS (Database Management System) is software used to store, manage, and retrieve data according to user needs. It can store a large amount of data efficiently.
+The data can be:
+1. Structured data
+2. Unstructured data
+3. Semi-structured data
+
+RDBMS (Relational Database Management System) is a type of DBMS that stores data in the form of tables.
+It provides:
+- Better security
+- Easy access to data
+- Reduced data redundancy
+- Better data management
+
+RDBMS is widely used in many companies, organizations, schools, hospitals, and institutions to store and manage information in databases.
+
+Features of DBMS:
+1. Data Security
+2. Data Consistency
+3. Data Sharing
+4. Backup and Recovery
+5. Reduced Data Redundancy
+6. Easy Data Retrieval
+
+Advantages of DBMS:
+- Stores large amount of data
+- Reduces duplicate data
+- Improves data security
+- Easy to update and retrieve data
+- Multiple users can access data
+
+Real-time examples of DBMS:
+- Banking systems
+- Hospital management systems
+- College management systems
+- Railway reservation systems
+- E-commerce websites
+
+Examples of RDBMS:
+- MySQL
+- Oracle
+- PostgreSQL
+- SQL Server
