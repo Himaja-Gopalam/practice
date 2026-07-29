@@ -395,7 +395,5 @@ public static void main(String[] args) {
             print21(n);
         }
         sc.close();
-    }
-
-
+}
 }
