@@ -49,6 +49,30 @@ static void fun6(int i, int n)
         System.out.println(i);
         
     } 
+static void fun7(int i, int n,int sum)
+    {
+        if(i>n)
+        {
+            System.out.println(sum);
+            return;
+        }
+        fun7(i+1,n,sum+i);
+        
+    }
+static int fun8(int n)
+    {
+        if(n==0)
+            return 0;
+       return n+ fun8(n-1);
+        
+    }
+static int fact(int n)
+    {
+        if(n==0)
+            return 1;
+       return n * fact(n-1);
+        
+    } 
     public static void main(String args[])
     {
         Scanner sc = new Scanner(System.in);
