@@ -38,7 +38,7 @@ public class twosum
         int left=0;
         int right=n-1;
         int sum=0;
-        for(int i=0;i<n;i++)
+        while(left<right)
         {
             sum=a[left]+a[right];
             if(sum==target)
